@@ -8,7 +8,7 @@
 
 ## TAMPILAN/HASIL COBA SENDIRI
 
-[![Screenshot-20221108-083934.jpg](https://i.postimg.cc/7L9kN9yB/Screenshot-20221108-083934.jpg)](https://postimg.cc/CZRXhj5D)
+[![Screenshot-20221108-083934.jpg](https://i.postimg.cc/7L9kN9yB/Screenshot-20221108-083934.jpg)](https://postimg.cc/CZRXhj5D) 
 
 ## <b>installation</b>
 
